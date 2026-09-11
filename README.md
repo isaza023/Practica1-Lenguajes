@@ -5,4 +5,6 @@ Compiladores:
 - Prolog: SWI-Prolog version 9.2.9
 - Haskell: GHC 9.10
 
+IDE: OnlineGDB
+
 Video :
