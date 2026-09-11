@@ -7,4 +7,4 @@ Compiladores:
 
 IDE: OnlineGDB
 
-Video :
+Video : https://drive.google.com/file/d/1Q2j9L1xyitDcEyV3M9c_UIgGXcODamC4/view?usp=sharing
